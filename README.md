@@ -1,2 +1,2 @@
-# EntePaisa
-Personal lended money tracker
+# Ente Paisa
+Lended money tracker for personal use.
