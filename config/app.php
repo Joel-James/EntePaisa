@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://localhost/GitHub/EntePaisa'),
 
     /*
     |--------------------------------------------------------------------------
@@ -103,7 +103,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY', 'base64:QKApwulJq96PgBmwS/6xWEcwIBYMdyH/vCF1bwisG3s='),
+    'key' => env('APP_KEY'),
 
     'cipher' => 'AES-256-CBC',
 
